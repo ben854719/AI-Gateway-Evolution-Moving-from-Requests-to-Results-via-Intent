@@ -1,1 +1,1 @@
-# AI-Gateway-Evolution-Moving-from-Requests-to-Results-via-Intent
+# AI Gateway Evolution: Moving from Requests to Results via Intent
