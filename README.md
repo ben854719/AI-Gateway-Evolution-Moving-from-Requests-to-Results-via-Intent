@@ -49,6 +49,7 @@ The application aims to develop an intent-driven AI assistant that seamlessly su
 - Numpy
 - Matplotlib
 - Gradio
+- Agentic AI
 - LangGraph
 - Gemini
 - MCP Server
