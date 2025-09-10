@@ -26,11 +26,11 @@ The application aims to develop an intent-driven AI assistant that seamlessly su
 
 ## Visual Engagement Triggers
   
-=  It will employ Matplotlib to visualize task triggers, enhancing user interaction and engagement.
+- It will employ Matplotlib to visualize task triggers, enhancing user interaction and engagement.
 
 ## Interactive NLP UI: 
 
-= The Frontend displays real-time previews of natural language interpretation to improve transparency and usability.
+- The Frontend displays real-time previews of natural language interpretation to improve transparency and usability.
 
 ## Performance-Optimized Architecture:
   
@@ -42,7 +42,7 @@ The application aims to develop an intent-driven AI assistant that seamlessly su
 
 - Python
 - Node.JS (Express)
-- Json
+- JSON
 - BullMQ
 - Redis Cloud Console
 - Pytorch
@@ -71,17 +71,17 @@ The application aims to develop an intent-driven AI assistant that seamlessly su
   
 ## Normalize:
 
-- Clean and standardize the input text (e.g., remove noise, correct formatting, unify encoding).
+- Clean and standardize the input text.
 
 ## Detect:
 
 - Use NLP to detect the user's intent and identify the input language.
 
-## Translate (if English):
+## Translate:
 
 - If the input is in English, translate it into French, Spanish, and Chinese.
   
--  Translation is triggered only when English is the source language.
+- Translation is triggered only when English is the source language.
 
 
 ## Fallback:
