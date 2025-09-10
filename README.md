@@ -45,6 +45,7 @@ The application aims to develop an intent-driven AI assistant that seamlessly su
 - Json
 - BullMQ
 - Node-cron
+- Redis Cloud Console
 - Pytorch
 - Numpy
 - Matplotlib
