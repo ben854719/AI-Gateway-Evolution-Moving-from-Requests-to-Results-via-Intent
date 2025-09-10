@@ -2,7 +2,7 @@
 
 ## Objective:
 
-The application aims to develop an intent-driven AI assistant that seamlessly supports the users with daily tasks by acting as a reminder, contextual helper, and agentic AI. It will translate reports into English, French, Spanish, and Chinese based on the user requests, without any issues of prompting. The backend utilizes Node.js (Express), BullMQ, and node-cron for task orchestration, while PyTorch predicts the user’s intent and Matplotlib visualizes a task trigger to optimize the engagement from the user. The frontend features an interactive UI that previews NLP interpretation. The Key metrics includes an achieving at least 90% intent accuracy, less than 500ms latency, 60% daily engagement, and 95% translation precision.
+The application aims to develop an intent-driven AI assistant that seamlessly supports the users with daily tasks by acting as a reminder, contextual helper, and agentic AI. It will translate reports into English, French, Spanish, and Chinese based on the user requests, without any issues of prompting. The backend utilizes Node.js (Express), BullMQ, and python sheduler for task orchestration, while PyTorch predicts the user’s intent and Matplotlib visualizes a task trigger to optimize the engagement from the user. The frontend features an interactive UI that previews NLP interpretation. The Key metrics includes an achieving at least 90% intent accuracy, less than 500ms latency, 60% daily engagement, and 95% translation precision.
 
 ## Video of the project:
 
@@ -22,7 +22,7 @@ The application aims to develop an intent-driven AI assistant that seamlessly su
 
 ## Task Orchestration System:
   
-- The Backend powered by Node.js (Express), BullMQ, and node-cron to manage and schedule tasks efficiently.
+- The Backend powered by Node.js (Express), BullMQ, and python scheduler to manage and schedule tasks efficiently.
 
 ## Visual Engagement Triggers
   
@@ -44,7 +44,6 @@ The application aims to develop an intent-driven AI assistant that seamlessly su
 - Node.JS (Express)
 - Json
 - BullMQ
-- Node-cron
 - Redis Cloud Console
 - Pytorch
 - Numpy
