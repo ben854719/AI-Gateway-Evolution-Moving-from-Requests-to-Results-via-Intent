@@ -18,7 +18,7 @@ The application aims to develop an intent-driven AI assistant that seamlessly su
   
 ## Agentic AI:
 
-- The Agentic AI will acts autonomously to support daily tasks—serving as a reminder, contextual helper, and proactive assistant.
+- The Agentic AI will acts autonomously to support daily tasks serving as a reminder, contextual helper, and proactive assistant.
 
 ## Task Orchestration System:
   
