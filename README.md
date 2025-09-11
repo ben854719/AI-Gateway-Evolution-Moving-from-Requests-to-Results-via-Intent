@@ -49,6 +49,7 @@ The application aims to develop an intent-driven AI assistant that seamlessly su
 - Pytorch
 - Numpy
 - Matplotlib
+- NLTK
 - Gradio
 - Agentic AI
 - LangGraph
