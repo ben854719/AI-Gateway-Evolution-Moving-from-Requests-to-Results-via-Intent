@@ -18,7 +18,7 @@ The application aims to develop an intent-driven AI assistant that seamlessly su
   
 ## Agentic AI:
 
-- Agentic AI identifies prompt-based security risks and delivers multilingual reports customized to the user's preferred language
+- Agentic AI identifies prompt based security risks and delivers multilingual reports customized to the user's preferred language
 
 ## Task Orchestration System:
   
