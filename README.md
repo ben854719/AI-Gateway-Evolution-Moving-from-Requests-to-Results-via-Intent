@@ -2,7 +2,7 @@
 
 ## Objective:
 
-The application aims to develop an intent-driven AI assistant that seamlessly supports the users with daily tasks by acting as a reminder, contextual helper, and agentic AI. It will translate reports into English, French, Spanish, and Chinese based on the user requests, without any issues of prompting base on the client bussiness. The backend utilizes Node.js (Express), BullMQ, and python sheduler for task orchestration, while PyTorch predicts the user’s intent and Matplotlib visualizes a task trigger to optimize the engagement from the user. The frontend features an interactive UI that previews NLP interpretation. The Key metrics includes an achieving at least 90% intent accuracy, less than 500ms latency, 60% daily engagement, and 95% translation precision.
+The application aims to develop an intent-driven AI assistant that seamlessly supports the users with daily tasks by acting as a reminder and contextual helper. The Agentic AI detects any security vulnerabilities in prompts and generates diagnostic reports translated into English, French, Spanish, and Chinese, tailored to the user's language preference. The backend utilizes Node.js (Express), BullMQ, and python sheduler for task orchestration, while PyTorch predicts the user’s intent and Matplotlib visualizes a task trigger to optimize the engagement from the user. The frontend features an interactive UI that previews NLP interpretation. The Key metrics includes an achieving at least 90% intent accuracy, less than 500ms latency, 60% daily engagement, and 95% translation precision.
 
 ## Video of the project:
 
@@ -18,7 +18,7 @@ The application aims to develop an intent-driven AI assistant that seamlessly su
   
 ## Agentic AI:
 
-- The Agentic AI will acts autonomously to support daily tasks serving as a reminder, contextual helper, and proactive assistant.
+- Agentic AI identifies prompt-based security risks and delivers multilingual reports customized to the user's preferred language
 
 ## Task Orchestration System:
   
@@ -65,7 +65,7 @@ The application aims to develop an intent-driven AI assistant that seamlessly su
 
 ## LangGraph Flow Setup:
 
-- Design a multi-step processing graph to handle translation, reporting, assistance, and reminder.
+- Design a multi-step processing graph to handle translation and reporting.
 - Node Configuration.
 - Input Normalization – Preprocess incoming text for consistency and clarity.
 - Gemini Translation Output – Use Gemini API to translate report in English, French, Spanish, and Chinese.
