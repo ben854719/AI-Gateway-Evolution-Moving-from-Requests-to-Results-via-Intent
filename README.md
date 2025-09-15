@@ -6,7 +6,7 @@ The application aims to develop an intent-driven AI assistant that seamlessly su
 
 ## Video of the project:
 
-https://github.com/user-attachments/assets/17a49c79-466c-465e-b91c-89e336c1c7c5
+https://github.com/user-attachments/assets/ddebe22b-1f35-40bd-b066-3901690aee18
 
 ## Key Features: 
 
